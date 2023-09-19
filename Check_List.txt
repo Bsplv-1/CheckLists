@@ -1,4 +1,2 @@
-ID
-Title
-Expected result
+Link to my check list https://docs.google.com/spreadsheets/d/11qQXyLfSW-qZAT23XYXyIanhnS6Ksy5Qsy99E5C661M/edit#gid=0
 	
